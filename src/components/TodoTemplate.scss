@@ -1,0 +1,21 @@
+.TodoTemplate {
+  font-family: 'IM_Hyemin-Bold';
+  margin-top: 100px;
+  overflow: hidden;
+
+  .app-title {
+    //background: #7583ff;
+    color: black;
+    height: 4rem;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .content {
+    background: white;
+    width: 549.5px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
